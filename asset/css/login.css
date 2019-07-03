@@ -1,0 +1,62 @@
+/*
+	CSS
+		by
+			Reno
+*/
+body {
+	padding: 0;
+	margin: 0;
+	background: #486392;
+}
+.top {
+	padding: 10px;
+	width: 30%;
+	background: #355388;
+	margin: auto;
+	margin-top: 8%;
+}
+.log {
+	padding: 10px;
+	width: 30%;
+	background: #fff;
+	margin: auto;
+	font-family: arial;
+	color: #355388;
+}
+.log img {
+	width: 40%;
+}
+.log form table {
+	width: 60%;
+}
+.ip {
+	text-align: center;
+	padding: 5px;
+	width: 95%;	
+	border-radius: 2px;
+	border: solid 1px #ccc;
+}
+.btn {
+	padding: 5px;
+	width: 100%;
+	background: #355388;
+	border: none;
+	color: #f3f3f3;
+	border-radius: 2px;
+}
+.btn:hover {
+	background: #486392;
+}
+.bottom {
+	padding: 10px;
+	width: 30%;
+	background: #fff;
+	margin: auto;
+	border-top: solid 1px #ccc;
+}
+.bottom p {
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	color: #222;
+}

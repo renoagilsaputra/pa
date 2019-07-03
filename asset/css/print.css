@@ -1,0 +1,20 @@
+/*
+	CSS
+		by
+			Reno
+*/
+body {
+	margin: 0;
+	padding: 0;
+	font-family: arial;
+}
+.tit {
+	text-align: center;
+}
+.tb {
+	width: 100%;
+	border-collapse: collapse;
+}
+.tb td {
+	text-align: center;
+}
